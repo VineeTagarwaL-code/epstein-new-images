@@ -25,7 +25,7 @@ export default function Home() {
             Epstein Files Browser
           </h1>
           <a
-            href="https://github.com"
+            href="https://github.com/VineeTagarwaL-code/epstein-new-images"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground transition-colors hover:text-foreground"
